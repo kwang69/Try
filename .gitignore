@@ -1,0 +1,10 @@
+##############################
+## Folders                  ##
+##############################
+app/node_modules/*
+
+app/public/*
+
+app/package-lock.json
+
+index.sublime-workspace
